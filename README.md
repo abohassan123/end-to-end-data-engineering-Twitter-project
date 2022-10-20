@@ -15,4 +15,5 @@ in this project:
 - opened the airflow and run the dag
 
 video for all the steps:
+
 https://www.linkedin.com/posts/mohamed-abohassan-6509641a9_project-engineering-dataengineering-activity-6988855404130652160-ADoG?utm_source=share&utm_medium=member_desktop
