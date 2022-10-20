@@ -1,4 +1,4 @@
-# End-to-End-Data-Engineering-Project
+# End-to-End-Data-Engineering-Twitter-Project
 
 
 ![image](https://user-images.githubusercontent.com/55424201/196932003-50cfaae8-3e92-4088-a6b3-fc77e1deff45.png)
